@@ -12,6 +12,8 @@ Es una página estática básica, ideal para quienes están comenzando en el mun
 
 ## 🌐 Ver el proyecto
 
+para ver este repositorio dar click en el sig [link](https://fredd81.github.io/mi-primer-html-clase6-/)
+
 Puedes ver el código fuente en el siguiente enlace:
 
 🔗 [index.html en GitHub](https://github.com/fredd81/mi-primer-html-clase6-/blob/main/index.html)
